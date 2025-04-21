@@ -11,9 +11,8 @@
 
 <picture> <img align="right" src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="250px"></picture>
 
-- 🔭 我目前正在开发一个**MeMoMate AI项目**
-- 🌱 我参与**Python开发**已经**3年**啦
-- 👯 我希望能与其他开发者合作开源项目
+- 🔭 我目前正在开发一个[**MeMoMate AI项目**](https://github.com/memo-mate/MemoMate/tree/master)
+- 🌱 我比较喜欢**Python开发**
 - 🤔 我正在探索**AI应用开发**和**智能体系统设计**
 - 💬 欢迎跟我讨论关于**Python后端、自动化、RPA和AI应用开发**的问题
 - 📫 联系方式: 通过GitHub联系我
